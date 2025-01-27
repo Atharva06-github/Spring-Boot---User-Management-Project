@@ -1,2 +1,2 @@
-# Spring-Boot---User-Management-Project
+# Spring Boot- User Management Application
 JAVA Fullstack Project
